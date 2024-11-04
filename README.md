@@ -2,7 +2,7 @@
 
 ## Description
 
-The Dark Mode Toggle Chrome Extension is a simple and lightweight tool that allows users to manually toggle dark mode on websites. This extension enables you to switch between light and dark themes, making your browsing experience more comfortable, especially in low-light environments.
+The Dark Mode Toggle Chrome Extension is a simple and lightweight tool that allows users to manually toggle dark mode on websites. This extension enables you to switch between light and dark themes, making your browsing experience more comfortable, especially in low-light environments
 
 ## Features
 
